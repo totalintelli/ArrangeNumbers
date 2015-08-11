@@ -3,7 +3,7 @@
 파일 이름: ArrangeNumbers.c
 기     능: 입력받은 수를 크기 순으로 정렬한다.
 작  성 자: 송 용 단
-작성 일자: 2015년 8월 10일
+작성 일자: 2015년 8월 11일
 */
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
